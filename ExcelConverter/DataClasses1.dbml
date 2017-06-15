@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="iga" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=TEISAN;Initial Catalog=iga;Integrated Security=True" SettingsObjectName="ExcelConverter.Properties.Settings" SettingsPropertyName="igaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.BulkData33mm" Member="BulkData33mms">
+    <Type Name="BulkData33mm">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Image1" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Image2" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Image3" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="ProductType" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="TankSize" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Supplier" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="MarketSector" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Place" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Country" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="CountryCode" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Remarks" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="VoiceData" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Website" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="CylinderRequired" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="SalesForceInfo" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="BarplusInfo" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="AddedUser" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="AddedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="AddedIpAddress" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="UpdatedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UpdatedUser" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="RecordStatus" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Device" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserLocationId" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="RegionId" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CountryId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RecordType" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="CustomerNo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LastSyncDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Postcode" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Longitude" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Latitude" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="IsBarPlusData" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="RepId" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RepName" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="RepNotified" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
