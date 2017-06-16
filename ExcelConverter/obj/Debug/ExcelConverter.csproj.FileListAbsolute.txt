@@ -10,3 +10,14 @@ c:\users\sanjaya\documents\visual studio 2015\Projects\ExcelConverter\ExcelConve
 c:\users\sanjaya\documents\visual studio 2015\Projects\ExcelConverter\ExcelConverter\obj\Debug\ExcelConverter.exe
 c:\users\sanjaya\documents\visual studio 2015\Projects\ExcelConverter\ExcelConverter\obj\Debug\ExcelConverter.pdb
 c:\users\sanjaya\documents\visual studio 2015\Projects\ExcelConverter\ExcelConverter\obj\Debug\ExcelConverter.csprojResolveAssemblyReference.cache
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\bin\Debug\ExcelConverter.exe.config
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\obj\Debug\ExcelConverter.exe
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\obj\Debug\ExcelConverter.pdb
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\bin\Debug\ExcelConverter.exe
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\bin\Debug\ExcelConverter.pdb
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\bin\Debug\Excel.4.5.pdb
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\obj\Debug\ExcelConverter.csprojResolveAssemblyReference.cache
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\obj\Debug\ExcelConverter.Form1.resources
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\obj\Debug\ExcelConverter.Properties.Resources.resources
+C:\Users\Sanjaya\Documents\GitHub\consoleAppExcelMssqlConvertion\ExcelConverter\obj\Debug\ExcelConverter.csproj.GenerateResource.Cache
